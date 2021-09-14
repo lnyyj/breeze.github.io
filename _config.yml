@@ -1,9 +1,12 @@
 title:              Clean Blog
 email:              songsyzero@163.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
 baseurl:            "/lnyyj-clean-blog-jekyll"
 url:                "https://lnyyj.github.io"
+author:
+  name: lnyyj
+  url: https://github.com/lnyyj/
+  email: songsyzero@163.com
 
 # Social Profiles
 twitter_username:   SBootstrap
@@ -23,3 +26,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
