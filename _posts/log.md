@@ -23,3 +23,4 @@ Id":"B1FFD2B8-27B4-BF63-5ECF-CBDEA249059D","name":""}]}  at apis/blue/blue.js:87
 17:44:38.049 response interceptors---------------,  [Object] {"data":{"ret":200,"msg":"success","data":"{\"sn\":\"932460433\",\"pile_model\":\"c9\",\"eq...} at apis/http/http.js:64
 17:44:38.054 请求后台绑定设备:,  [Object] {"data":{"ret":200,"msg":"success","data":"{\"sn\":\"932460433\",\"pile_model\":\"c9\",\"eq...} at apis/http/evse.js:34
 17:44:38.058 绑定后台设置成功:,  [Object] {"ret":200,"msg":"success","data":"{\"sn\":\"932460433\",\"pile_model\":\"c9\",\"equipment_...} at apis/api.js:374
+ 
